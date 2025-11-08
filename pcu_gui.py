@@ -1,9 +1,9 @@
 import tkinter as tin
 from tkinter import ttk
 
-from pipeline_config_utilities import PipelineConfigUtils as pcutils
+from [redacted] import [redacted] as [redacted]
 
-util_instance = pcutils()
+util_instance = [redacted]()
 
 class UtilsWindow():
 

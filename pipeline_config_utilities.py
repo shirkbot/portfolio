@@ -15,8 +15,8 @@ class PipelineConfigUtils():
     def __init__(self):
         # Instance SG Engine
         try:
-            # Instance Shotgun Engine from sg_tools
-            from sgpy.sg_tools import sg_connection
+            # Instance Shotgun Engine from [redacted]
+            from [redacted] import [redacted]
             eng = sg_connection.sg_connect()
             print("SG Engine from sg_tools")
         except:
